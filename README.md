@@ -1,0 +1,1 @@
+This is a simple User authenticate api using hashing+salting method.
